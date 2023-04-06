@@ -6,14 +6,14 @@
 </template>
 
 <script>
-import QuoteGenerator from "@/components/QuoteGenerator.vue";
+import QuoteGenerator from '@/components/QuoteGenerator.vue'
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
     QuoteGenerator,
   },
-};
+}
 </script>
 
 <style lang="scss">
